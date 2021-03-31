@@ -22,7 +22,7 @@ jobs:
         run: mvn -q test -Dtest=StudentApiIntegrationTests
       - name: Run Cucumber Acceptance Tests
         run: mvn -q test -Dtest=RunCucumberTest
-      - name: Build with Maven
+      - name: Build and package the jar file
         run: mvn -B package --file pom.xml -DskipTests
       - name: Login to DockerHub
         uses: docker/login-action@v1
