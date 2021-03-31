@@ -22,7 +22,7 @@ before deploying the docker image to Docker hub.
 ##### Using Docker:
 
 ```
-docker run sahajamit/student-enrollment-api:latest
+docker run sahajamit/student-enrollment-api
 ```
 
 ##### Locally:
