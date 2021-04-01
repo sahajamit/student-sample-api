@@ -14,7 +14,7 @@ The ask was:
 * Integration tests against the H2 database
 * Write some Cucumber E2E tests to verify the CRUD operations are working fine.
 * The whole solution should be Containerized and can be started using docker.
-* CI/Cd Pipeline using Jenkins (now changed to Github Actions) where all the se unit, integration and cucumber acceptance tests should be executed,
+* CI/CD Pipeline using Jenkins (now changed to Github Actions) where all the unit, integration and cucumber acceptance tests should be executed,
 before deploying the docker image to Docker hub.
 * The API documentation should be accessible using Swagger URL.
  
