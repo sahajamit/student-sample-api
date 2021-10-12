@@ -1,5 +1,8 @@
 ### Student Enrollment Sample Rest API
 
+[![Visualization of the codebase](./diagram.svg)](https://octo-repo-visualization.vercel.app/?repo=sahajamit%2student-sample-api) 
+[View interactive Diagram](https://octo-repo-visualization.vercel.app/?repo=sahajamit%2Fstudent-sample-api)
+
 I have developed this REST API in 2019 as a part of coding assignment for one of the Fintech firm in Singapore. 
 
 I have decided to opensource it now.
